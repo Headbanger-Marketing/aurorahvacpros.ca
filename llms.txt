@@ -1,0 +1,26 @@
+# Aurora HVAC Pros
+
+> Aurora HVAC Pros is a local HVAC company serving Aurora, York Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 727-0491  |  Email: contact@aurorahvacpros.ca  |  Website: https://aurorahvacpros.ca
+
+Service areas: Aurora, Markham, Richmond Hill, Newmarket, Vaughan, Keswick, Stouffville, King City
+
+## Key pages
+
+- [Home](https://aurorahvacpros.ca/): Aurora HVAC Pros homepage with service overview and FAQ
+- [About](https://aurorahvacpros.ca/about/): About the company and service area
+- [Contact](https://aurorahvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://aurorahvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Aurora, Ontario
+- [AC Installation & Repair](https://aurorahvacpros.ca/services/ac-repair/): AC Installation & Repair in Aurora, Ontario
+- [Heat Pumps](https://aurorahvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Aurora, Ontario
+- [Duct Cleaning](https://aurorahvacpros.ca/services/duct-cleaning/): Duct Cleaning in Aurora, Ontario
+- [Thermostats](https://aurorahvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Aurora, Ontario
+- [Ductless AC Installation](https://aurorahvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Aurora, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Aurora are answered on the homepage.
